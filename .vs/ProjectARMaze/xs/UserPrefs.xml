@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A873B912-3A37-C393-41DF-00737BF25434}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Maze.json">
+    <Files>
+      <File FileName="Assets/Maze.json.cs" Line="13" Column="1" />
+      <File FileName="Assets/MazeGenerator.cs" Line="64" Column="1" />
+      <File FileName="Assets/PlayerController.cs" Line="37" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProjectARMaze" expanded="True">
+            <Node name="Assets" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0f17d896-f2b0-4192-bd24-1a4b02b24e41" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
