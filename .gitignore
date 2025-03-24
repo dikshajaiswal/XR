@@ -6,6 +6,7 @@
 Build/
 Builds/
 [Tt]estResults/
+[Ll]ogs/
 
 # User-specific files
 .idea/
