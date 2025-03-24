@@ -21,3 +21,14 @@ Thumbs.db
 *.csproj
 *.sln
 *.userprefs
+
+UserSettings/Layouts/
+UserSettings/Search.settings
+UserSettings/Search.index
+
+
+# Ignore XR and OpenXR-related files
+Assets/XR/
+
+# Ignore crash dumps
+*.blob
