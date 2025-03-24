@@ -59,5 +59,5 @@ public class MazeGenerator : MonoBehaviour
 [System.Serializable]
 public class MazeData
 {
-    public List<List<int>> grid; // Use List<List<int>> for compatibility
+    public List<List<int>> grid;
 }
